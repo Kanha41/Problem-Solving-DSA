@@ -1,7 +1,3 @@
-//git Commands
-// git add .
-// git commit -m "LeetCode 53: Maximum Subarray"
-// git push
 class Solution {
 public:
     int maxArea(vector<int>& height) {
